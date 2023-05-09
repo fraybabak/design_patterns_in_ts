@@ -77,10 +77,3 @@ function run() {
   push_notifier.send('this message is sent via Push');
 }
 ```
-
-## usage
-
-```bash
-$ npm run build && node dist/app.js
-
-```
